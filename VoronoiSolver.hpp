@@ -39,4 +39,3 @@ private:
     static std::mutex structuresLock;
 };
 
-
